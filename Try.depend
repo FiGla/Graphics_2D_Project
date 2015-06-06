@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1424675170 source:c:\users\amira\desktop\try\main.cpp
+	<windows.h>
+	<math.h>
+	<iostream>
+
+1428305573 source:f:\fci\fourth year\sec term\gfx\try\main.cpp
+	<windows.h>
+	<math.h>
+	<iostream>
+	<bits/stdc++.h>
+
